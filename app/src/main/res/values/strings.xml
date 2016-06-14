@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacionRegistro</string>
+    <string name="adicionar">Adicionar nombre</string>
+    <string name="listar">Listar nombre</string>
+</resources>
